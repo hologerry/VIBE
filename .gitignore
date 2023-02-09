@@ -5,3 +5,5 @@ vibe-env/
 output/
 *.mp4
 results
+
+vibe_out_msasl
